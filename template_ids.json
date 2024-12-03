@@ -1,0 +1,796 @@
+[
+  {
+    "id": 4075000003,
+    "name": "Job Template",
+    "requisition_id": "1",
+    "notes": null,
+    "confidential": false,
+    "is_template": true,
+    "copied_from_id": null,
+    "status": "closed",
+    "created_at": "2020-07-01T16:09:12.168Z",
+    "opened_at": null,
+    "closed_at": "2020-07-20T17:56:14.727Z",
+    "updated_at": "2020-07-20T17:56:14.743Z",
+    "departments": [
+      {
+        "id": 4016676003,
+        "name": "Engineering",
+        "parent_id": null,
+        "parent_department_external_id": null,
+        "child_ids": [
+
+        ],
+        "child_department_external_ids": [
+
+        ],
+        "external_id": null
+      }
+    ],
+    "offices": [
+
+    ],
+    "hiring_team": {
+      "hiring_managers": [
+        {
+          "id": 4114063003,
+          "first_name": "Josh",
+          "last_name": "Quagliaroli",
+          "name": "Josh Quagliaroli",
+          "employee_id": null
+        }
+      ],
+      "recruiters": [
+        {
+          "id": 4114063003,
+          "first_name": "Josh",
+          "last_name": "Quagliaroli",
+          "name": "Josh Quagliaroli",
+          "employee_id": null,
+          "responsible": true
+        }
+      ],
+      "coordinators": [
+
+      ],
+      "sourcers": [
+
+      ]
+    },
+    "openings": [
+      {
+        "id": 4141417003,
+        "opening_id": null,
+        "status": "closed",
+        "opened_at": "2020-07-01T16:09:12.194Z",
+        "closed_at": "2020-07-20T17:56:14.729Z",
+        "application_id": null,
+        "close_reason": {
+          "id": 4006964003,
+          "name": "Not Filling"
+        }
+      }
+    ],
+    "custom_fields": {
+      "employment_type": null,
+      "min_salary": null,
+      "max_salary": null
+    },
+    "keyed_custom_fields": {
+      "employment_type": {
+        "name": "Employment Type",
+        "type": "single_select",
+        "value": null
+      },
+      "min_salary": null,
+      "max_salary": null
+    }
+  },
+  {
+    "id": 4077313003,
+    "name": "Delivery Manager (Delivery Specialist)",
+    "requisition_id": "3",
+    "notes": null,
+    "confidential": false,
+    "is_template": true,
+    "copied_from_id": null,
+    "status": "draft",
+    "created_at": "2020-07-08T19:37:16.470Z",
+    "opened_at": null,
+    "closed_at": null,
+    "updated_at": "2023-01-05T15:35:40.406Z",
+    "departments": [
+      {
+        "id": 4016677003,
+        "name": "Experience",
+        "parent_id": null,
+        "parent_department_external_id": null,
+        "child_ids": [
+
+        ],
+        "child_department_external_ids": [
+
+        ],
+        "external_id": null
+      }
+    ],
+    "offices": [
+
+    ],
+    "hiring_team": {
+      "hiring_managers": [
+        {
+          "id": 4114063003,
+          "first_name": "Josh",
+          "last_name": "Quagliaroli",
+          "name": "Josh Quagliaroli",
+          "employee_id": null
+        }
+      ],
+      "recruiters": [
+
+      ],
+      "coordinators": [
+        {
+          "id": 4114338003,
+          "first_name": "Athena",
+          "last_name": "Bozak",
+          "name": "Athena Bozak",
+          "employee_id": null,
+          "responsible": false
+        }
+      ],
+      "sourcers": [
+
+      ]
+    },
+    "openings": [
+      {
+        "id": 4145257003,
+        "opening_id": "3-1",
+        "status": "closed",
+        "opened_at": "2020-07-08T19:37:16.505Z",
+        "closed_at": "2020-07-15T16:47:10.844Z",
+        "application_id": null,
+        "close_reason": {
+          "id": 4006964003,
+          "name": "Not Filling"
+        }
+      }
+    ],
+    "custom_fields": {
+      "employment_type": "Full-time",
+      "min_salary": null,
+      "max_salary": null
+    },
+    "keyed_custom_fields": {
+      "employment_type": {
+        "name": "Employment Type",
+        "type": "single_select",
+        "value": "Full-time"
+      },
+      "min_salary": null,
+      "max_salary": null
+    }
+  },
+  {
+    "id": 4582644003,
+    "name": "TEMPLATE - Engineering ",
+    "requisition_id": "89",
+    "notes": null,
+    "confidential": false,
+    "is_template": true,
+    "copied_from_id": 4577338003,
+    "status": "draft",
+    "created_at": "2022-04-08T18:12:46.929Z",
+    "opened_at": null,
+    "closed_at": null,
+    "updated_at": "2022-04-08T18:12:48.337Z",
+    "departments": [
+      {
+        "id": 4016676003,
+        "name": "Engineering",
+        "parent_id": null,
+        "parent_department_external_id": null,
+        "child_ids": [
+
+        ],
+        "child_department_external_ids": [
+
+        ],
+        "external_id": null
+      }
+    ],
+    "offices": [
+      {
+        "id": 4010196003,
+        "name": "Agile Six",
+        "location": {
+          "name": "N/A"
+        },
+        "primary_contact_user_id": 4114063003,
+        "parent_id": null,
+        "parent_office_external_id": null,
+        "child_ids": [
+
+        ],
+        "child_office_external_ids": [
+
+        ],
+        "external_id": null
+      }
+    ],
+    "hiring_team": {
+      "hiring_managers": [
+        {
+          "id": 4117923003,
+          "first_name": "Sara",
+          "last_name": "Quagliaroli",
+          "name": "Sara Quagliaroli",
+          "employee_id": null
+        },
+        {
+          "id": 4114340003,
+          "first_name": "Brian",
+          "last_name": "Derfer",
+          "name": "Brian Derfer",
+          "employee_id": null
+        },
+        {
+          "id": 4117912003,
+          "first_name": "Jeff",
+          "last_name": "Brauer",
+          "name": "Jeff Brauer",
+          "employee_id": null
+        }
+      ],
+      "recruiters": [
+        {
+          "id": 4117923003,
+          "first_name": "Sara",
+          "last_name": "Quagliaroli",
+          "name": "Sara Quagliaroli",
+          "employee_id": null,
+          "responsible": true
+        }
+      ],
+      "coordinators": [
+        {
+          "id": 4117923003,
+          "first_name": "Sara",
+          "last_name": "Quagliaroli",
+          "name": "Sara Quagliaroli",
+          "employee_id": null,
+          "responsible": true
+        }
+      ],
+      "sourcers": [
+
+      ]
+    },
+    "openings": [
+      {
+        "id": 5223888003,
+        "opening_id": null,
+        "status": "open",
+        "opened_at": "2022-04-08T18:12:47.067Z",
+        "closed_at": null,
+        "application_id": null,
+        "close_reason": null
+      }
+    ],
+    "custom_fields": {
+      "employment_type": null,
+      "min_salary": {
+        "value": 144650,
+        "unit": null
+      },
+      "max_salary": {
+        "value": 152068,
+        "unit": null
+      }
+    },
+    "keyed_custom_fields": {
+      "employment_type": {
+        "name": "Employment Type",
+        "type": "single_select",
+        "value": null
+      },
+      "min_salary": {
+        "name": "Min Salary",
+        "type": "currency",
+        "value": {
+          "value": 144650,
+          "unit": null
+        }
+      },
+      "max_salary": {
+        "name": "Max Salary",
+        "type": "currency",
+        "value": {
+          "value": 152068,
+          "unit": null
+        }
+      }
+    }
+  },
+  {
+    "id": 4600973003,
+    "name": "Product Owner Level IV",
+    "requisition_id": "94",
+    "notes": null,
+    "confidential": false,
+    "is_template": true,
+    "copied_from_id": 4568883003,
+    "status": "draft",
+    "created_at": "2022-05-06T14:17:19.692Z",
+    "opened_at": null,
+    "closed_at": null,
+    "updated_at": "2023-07-07T16:22:27.531Z",
+    "departments": [
+      {
+        "id": 4016678003,
+        "name": "Delivery",
+        "parent_id": null,
+        "parent_department_external_id": null,
+        "child_ids": [
+
+        ],
+        "child_department_external_ids": [
+
+        ],
+        "external_id": null
+      }
+    ],
+    "offices": [
+      {
+        "id": 4010196003,
+        "name": "Agile Six",
+        "location": {
+          "name": "N/A"
+        },
+        "primary_contact_user_id": 4114063003,
+        "parent_id": null,
+        "parent_office_external_id": null,
+        "child_ids": [
+
+        ],
+        "child_office_external_ids": [
+
+        ],
+        "external_id": null
+      }
+    ],
+    "hiring_team": {
+      "hiring_managers": [
+        {
+          "id": 4117923003,
+          "first_name": "Sara",
+          "last_name": "Quagliaroli",
+          "name": "Sara Quagliaroli",
+          "employee_id": null
+        }
+      ],
+      "recruiters": [
+        {
+          "id": 4117912003,
+          "first_name": "Jeff",
+          "last_name": "Brauer",
+          "name": "Jeff Brauer",
+          "employee_id": null,
+          "responsible": false
+        },
+        {
+          "id": 4117916003,
+          "first_name": "Michelle",
+          "last_name": "Johnson",
+          "name": "Michelle Johnson",
+          "employee_id": null,
+          "responsible": false
+        },
+        {
+          "id": 4117923003,
+          "first_name": "Sara",
+          "last_name": "Quagliaroli",
+          "name": "Sara Quagliaroli",
+          "employee_id": null,
+          "responsible": true
+        },
+        {
+          "id": 4452569003,
+          "first_name": "Lori",
+          "last_name": "Pusey",
+          "name": "Lori Pusey",
+          "employee_id": null,
+          "responsible": false
+        },
+        {
+          "id": 4527385003,
+          "first_name": "Jess",
+          "last_name": "Alexander",
+          "name": "Jess Alexander",
+          "employee_id": null,
+          "responsible": false
+        },
+        {
+          "id": 4527394003,
+          "first_name": "Wesley",
+          "last_name": "Rowe",
+          "name": "Wesley Rowe",
+          "employee_id": null,
+          "responsible": false
+        }
+      ],
+      "coordinators": [
+        {
+          "id": 4117923003,
+          "first_name": "Sara",
+          "last_name": "Quagliaroli",
+          "name": "Sara Quagliaroli",
+          "employee_id": null,
+          "responsible": true
+        }
+      ],
+      "sourcers": [
+
+      ]
+    },
+    "openings": [
+      {
+        "id": 5262734003,
+        "opening_id": null,
+        "status": "closed",
+        "opened_at": "2022-05-06T14:17:19.812Z",
+        "closed_at": "2022-07-28T16:14:12.875Z",
+        "application_id": null,
+        "close_reason": null
+      }
+    ],
+    "custom_fields": {
+      "employment_type": "Full-time",
+      "min_salary": {
+        "value": 137008,
+        "unit": "USD"
+      },
+      "max_salary": {
+        "value": 151430,
+        "unit": "USD"
+      }
+    },
+    "keyed_custom_fields": {
+      "employment_type": {
+        "name": "Employment Type",
+        "type": "single_select",
+        "value": "Full-time"
+      },
+      "min_salary": {
+        "name": "Min Salary",
+        "type": "currency",
+        "value": {
+          "value": 137008,
+          "unit": "USD"
+        }
+      },
+      "max_salary": {
+        "name": "Max Salary",
+        "type": "currency",
+        "value": {
+          "value": 151430,
+          "unit": "USD"
+        }
+      }
+    }
+  },
+  {
+    "id": 4601194003,
+    "name": "Product Owner Level III",
+    "requisition_id": "95",
+    "notes": null,
+    "confidential": false,
+    "is_template": true,
+    "copied_from_id": 4568883003,
+    "status": "closed",
+    "created_at": "2022-05-06T17:39:04.402Z",
+    "opened_at": null,
+    "closed_at": "2022-07-28T16:10:37.134Z",
+    "updated_at": "2022-12-06T16:36:26.054Z",
+    "departments": [
+      {
+        "id": 4016678003,
+        "name": "Delivery",
+        "parent_id": null,
+        "parent_department_external_id": null,
+        "child_ids": [
+
+        ],
+        "child_department_external_ids": [
+
+        ],
+        "external_id": null
+      }
+    ],
+    "offices": [
+      {
+        "id": 4010196003,
+        "name": "Agile Six",
+        "location": {
+          "name": "N/A"
+        },
+        "primary_contact_user_id": 4114063003,
+        "parent_id": null,
+        "parent_office_external_id": null,
+        "child_ids": [
+
+        ],
+        "child_office_external_ids": [
+
+        ],
+        "external_id": null
+      }
+    ],
+    "hiring_team": {
+      "hiring_managers": [
+        {
+          "id": 4117923003,
+          "first_name": "Sara",
+          "last_name": "Quagliaroli",
+          "name": "Sara Quagliaroli",
+          "employee_id": null
+        }
+      ],
+      "recruiters": [
+        {
+          "id": 4117916003,
+          "first_name": "Michelle",
+          "last_name": "Johnson",
+          "name": "Michelle Johnson",
+          "employee_id": null,
+          "responsible": false
+        },
+        {
+          "id": 4117923003,
+          "first_name": "Sara",
+          "last_name": "Quagliaroli",
+          "name": "Sara Quagliaroli",
+          "employee_id": null,
+          "responsible": true
+        },
+        {
+          "id": 4452569003,
+          "first_name": "Lori",
+          "last_name": "Pusey",
+          "name": "Lori Pusey",
+          "employee_id": null,
+          "responsible": false
+        },
+        {
+          "id": 4527394003,
+          "first_name": "Wesley",
+          "last_name": "Rowe",
+          "name": "Wesley Rowe",
+          "employee_id": null,
+          "responsible": false
+        }
+      ],
+      "coordinators": [
+        {
+          "id": 4117923003,
+          "first_name": "Sara",
+          "last_name": "Quagliaroli",
+          "name": "Sara Quagliaroli",
+          "employee_id": null,
+          "responsible": true
+        }
+      ],
+      "sourcers": [
+
+      ]
+    },
+    "openings": [
+      {
+        "id": 5263232003,
+        "opening_id": null,
+        "status": "closed",
+        "opened_at": "2022-05-06T17:39:04.551Z",
+        "closed_at": "2022-07-28T16:10:37.138Z",
+        "application_id": null,
+        "close_reason": null
+      }
+    ],
+    "custom_fields": {
+      "employment_type": "Full-time",
+      "min_salary": {
+        "value": 130269,
+        "unit": "USD"
+      },
+      "max_salary": {
+        "value": 136949,
+        "unit": "USD"
+      }
+    },
+    "keyed_custom_fields": {
+      "employment_type": {
+        "name": "Employment Type",
+        "type": "single_select",
+        "value": "Full-time"
+      },
+      "min_salary": {
+        "name": "Min Salary",
+        "type": "currency",
+        "value": {
+          "value": 130269,
+          "unit": "USD"
+        }
+      },
+      "max_salary": {
+        "name": "Max Salary",
+        "type": "currency",
+        "value": {
+          "value": 136949,
+          "unit": "USD"
+        }
+      }
+    }
+  },
+  {
+    "id": 4606038003,
+    "name": "Help Desk & Training Specialist Level III",
+    "requisition_id": "96",
+    "notes": null,
+    "confidential": false,
+    "is_template": true,
+    "copied_from_id": null,
+    "status": "closed",
+    "created_at": "2022-05-13T19:36:27.184Z",
+    "opened_at": "2022-05-13T19:59:23.746Z",
+    "closed_at": "2022-06-14T19:41:56.211Z",
+    "updated_at": "2022-06-14T19:41:56.242Z",
+    "departments": [
+      {
+        "id": 4043175003,
+        "name": "Support",
+        "parent_id": null,
+        "parent_department_external_id": null,
+        "child_ids": [
+
+        ],
+        "child_department_external_ids": [
+
+        ],
+        "external_id": null
+      }
+    ],
+    "offices": [
+      {
+        "id": 4010196003,
+        "name": "Agile Six",
+        "location": {
+          "name": "N/A"
+        },
+        "primary_contact_user_id": 4114063003,
+        "parent_id": null,
+        "parent_office_external_id": null,
+        "child_ids": [
+
+        ],
+        "child_office_external_ids": [
+
+        ],
+        "external_id": null
+      }
+    ],
+    "hiring_team": {
+      "hiring_managers": [
+        {
+          "id": 4117911003,
+          "first_name": "Dotti",
+          "last_name": "Cummings",
+          "name": "Dotti Cummings",
+          "employee_id": null
+        },
+        {
+          "id": 4117912003,
+          "first_name": "Jeff",
+          "last_name": "Brauer",
+          "name": "Jeff Brauer",
+          "employee_id": null
+        }
+      ],
+      "recruiters": [
+        {
+          "id": 4117911003,
+          "first_name": "Dotti",
+          "last_name": "Cummings",
+          "name": "Dotti Cummings",
+          "employee_id": null,
+          "responsible": false
+        },
+        {
+          "id": 4117912003,
+          "first_name": "Jeff",
+          "last_name": "Brauer",
+          "name": "Jeff Brauer",
+          "employee_id": null,
+          "responsible": false
+        },
+        {
+          "id": 4117923003,
+          "first_name": "Sara",
+          "last_name": "Quagliaroli",
+          "name": "Sara Quagliaroli",
+          "employee_id": null,
+          "responsible": false
+        }
+      ],
+      "coordinators": [
+        {
+          "id": 4117911003,
+          "first_name": "Dotti",
+          "last_name": "Cummings",
+          "name": "Dotti Cummings",
+          "employee_id": null,
+          "responsible": false
+        },
+        {
+          "id": 4117912003,
+          "first_name": "Jeff",
+          "last_name": "Brauer",
+          "name": "Jeff Brauer",
+          "employee_id": null,
+          "responsible": false
+        }
+      ],
+      "sourcers": [
+
+      ]
+    },
+    "openings": [
+      {
+        "id": 5273435003,
+        "opening_id": null,
+        "status": "closed",
+        "opened_at": "2022-05-13T19:59:23.744Z",
+        "closed_at": "2022-06-14T19:41:56.133Z",
+        "application_id": 62497074003,
+        "close_reason": {
+          "id": 4006961003,
+          "name": "Hire - Backfill"
+        }
+      }
+    ],
+    "custom_fields": {
+      "employment_type": null,
+      "min_salary": {
+        "value": 122923,
+        "unit": null
+      },
+      "max_salary": {
+        "value": 129227,
+        "unit": null
+      }
+    },
+    "keyed_custom_fields": {
+      "employment_type": {
+        "name": "Employment Type",
+        "type": "single_select",
+        "value": null
+      },
+      "min_salary": {
+        "name": "Min Salary",
+        "type": "currency",
+        "value": {
+          "value": 122923,
+          "unit": null
+        }
+      },
+      "max_salary": {
+        "name": "Max Salary",
+        "type": "currency",
+        "value": {
+          "value": 129227,
+          "unit": null
+        }
+      }
+    }
+  }
+]
